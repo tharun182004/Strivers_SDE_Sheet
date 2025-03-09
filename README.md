@@ -1,0 +1,1 @@
+The repository consists of problems that were structured by Strivers A2Z course. The problems are solved in the order followed in striver's website. Special case problems were denoted as "SPECIAL" at the end of the file name.
